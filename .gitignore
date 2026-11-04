@@ -1,0 +1,15 @@
+target/
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+.vscode/
+.allure/
+allure-results/
+/allure-report/
+*.log
+.DS_Store
+**/.DS_Store
+.env
+local.properties

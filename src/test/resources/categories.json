@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Defects in application under test",
+    "matchedStatuses": ["failed"],
+    "messageRegex": ".*DEFECT.*"
+  },
+  {
+    "name": "Product defects",
+    "matchedStatuses": ["failed"]
+  },
+  {
+    "name": "Test defects",
+    "matchedStatuses": ["broken"]
+  }
+]
