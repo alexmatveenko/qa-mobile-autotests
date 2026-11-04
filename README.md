@@ -4,8 +4,7 @@
 
 **Стек:** Java 17, Appium (UiAutomator2), JUnit 5, Allure, Page Object.  
 **Учётные данные:** `Login` / `Password`.  
-**Репозиторий:** [github.com/alexmatveenko/qa-mobile-autotests](https://github.com/alexmatveenko/qa-mobile-autotests)  
-**Контакт:** Telegram [@matalexg](https://t.me/matalexg)
+**Репозиторий:** [github.com/alexmatveenko/qa-mobile-autotests](https://github.com/alexmatveenko/qa-mobile-autotests)
 
 > **Локаторы:** в README тестового задания указаны CSS и XPath. **CSS можно не использовать** — это **согласовано с HR** до сдачи работы. В проекте применяются **только XPath** (в native Android UI CSS недоступен; для элементов используются XPath по `resource-id` и типам виджетов).
 
